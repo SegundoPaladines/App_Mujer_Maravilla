@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AppMujerMaravilla",
+            "request": "launch",
+            
+            "mainClass": "AppMujerMaravilla",
+            "projectName": "AppMujerMaravilla_531c6676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "vmArgs": "--module-path C:\\Users\\Asus-PC\\javafx-sdk-16\\lib --add-modules=javafx.controls,javafx.fxml",
+            "mainClass": "${file}"
+        }
+    ]
+}
